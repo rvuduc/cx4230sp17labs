@@ -9,3 +9,4 @@ This repository contains the lab notebooks for the Spring 2017 offering of Georg
 - Lab 4: "Loveshack" (ODEs) and SIR-CA. [Launch in Azure Notebooks](https://notebooks.azure.com/library/cx4230sp17lab4)
 - Lab 5: Output analysis + Markov chain analysis of SIR-CA. [Launch in Azure Notebooks](https://notebooks.azure.com/library/cx4230sp17lab5)
 - Lab 6: SIR-MF and random walks. [Launch in Azure Notebooks](https://notebooks.azure.com/library/cx4230sp17lab6)
+- Lab 7: SIR-PDE + aggressor-defender. [Launch in Azure Notebooks](https://notebooks.azure.com/library/cx4230sp17lab7)
