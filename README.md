@@ -12,3 +12,4 @@ This repository contains the lab notebooks for the Spring 2017 offering of Georg
 - Lab 7: SIR-PDE + aggressor-defender. [Launch in Azure Notebooks](https://notebooks.azure.com/library/cx4230sp17lab7)
 - Lab 8: Input modeling. [Launch in Azure Notebooks](https://notebooks.azure.com/richie/libraries/cx4230sp17lab8)
 - Lab 9x (OPTIONAL -- do not turn in): Pseudorandom number generation and testing [Launch in Azure Notebooks](https://notebooks.azure.com/richie/libraries/cx4230sp17lab9x)
+- Lab 10: Networks [Launch in Azure Notebooks](https://notebooks.azure.com/richie/libraries/cx4230sp17lab10)
